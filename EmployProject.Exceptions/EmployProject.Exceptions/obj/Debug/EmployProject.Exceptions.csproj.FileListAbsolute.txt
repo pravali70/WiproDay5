@@ -1,0 +1,6 @@
+C:\Users\pc\source\EmployProject.Exceptions\EmployProject.Exceptions\bin\Debug\EmployProject.Exceptions.dll
+C:\Users\pc\source\EmployProject.Exceptions\EmployProject.Exceptions\bin\Debug\EmployProject.Exceptions.pdb
+C:\Users\pc\source\EmployProject.Exceptions\EmployProject.Exceptions\obj\Debug\EmployProject.Exceptions.csproj.AssemblyReference.cache
+C:\Users\pc\source\EmployProject.Exceptions\EmployProject.Exceptions\obj\Debug\EmployProject.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\EmployProject.Exceptions\EmployProject.Exceptions\obj\Debug\EmployProject.Exceptions.dll
+C:\Users\pc\source\EmployProject.Exceptions\EmployProject.Exceptions\obj\Debug\EmployProject.Exceptions.pdb

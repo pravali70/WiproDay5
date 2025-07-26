@@ -1,0 +1,13 @@
+C:\Users\pc\source\EmployProject.Bal\EmployProject.Bal\bin\Debug\EmployProject.Bal.dll
+C:\Users\pc\source\EmployProject.Bal\EmployProject.Bal\bin\Debug\EmployProject.Bal.pdb
+C:\Users\pc\source\EmployProject.Bal\EmployProject.Bal\bin\Debug\EmployProject.Dao.dll
+C:\Users\pc\source\EmployProject.Bal\EmployProject.Bal\bin\Debug\EmployProject.Exceptions.dll
+C:\Users\pc\source\EmployProject.Bal\EmployProject.Bal\bin\Debug\EmployProject.Models.dll
+C:\Users\pc\source\EmployProject.Bal\EmployProject.Bal\bin\Debug\EmployProject.Dao.pdb
+C:\Users\pc\source\EmployProject.Bal\EmployProject.Bal\bin\Debug\EmployProject.Exceptions.pdb
+C:\Users\pc\source\EmployProject.Bal\EmployProject.Bal\bin\Debug\EmployProject.Models.pdb
+C:\Users\pc\source\EmployProject.Bal\EmployProject.Bal\obj\Debug\EmployProject.Bal.csproj.AssemblyReference.cache
+C:\Users\pc\source\EmployProject.Bal\EmployProject.Bal\obj\Debug\EmployProject.Bal.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\EmployProject.Bal\EmployProject.Bal\obj\Debug\EmployPr.51110864.Up2Date
+C:\Users\pc\source\EmployProject.Bal\EmployProject.Bal\obj\Debug\EmployProject.Bal.dll
+C:\Users\pc\source\EmployProject.Bal\EmployProject.Bal\obj\Debug\EmployProject.Bal.pdb

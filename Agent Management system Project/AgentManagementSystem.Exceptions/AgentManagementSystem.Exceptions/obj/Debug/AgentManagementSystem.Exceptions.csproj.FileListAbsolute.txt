@@ -1,0 +1,6 @@
+C:\Users\pc\source\AgentManagementSystem.Exceptions\AgentManagementSystem.Exceptions\bin\Debug\AgentManagementSystem.Exceptions.dll
+C:\Users\pc\source\AgentManagementSystem.Exceptions\AgentManagementSystem.Exceptions\bin\Debug\AgentManagementSystem.Exceptions.pdb
+C:\Users\pc\source\AgentManagementSystem.Exceptions\AgentManagementSystem.Exceptions\obj\Debug\AgentManagementSystem.Exceptions.csproj.AssemblyReference.cache
+C:\Users\pc\source\AgentManagementSystem.Exceptions\AgentManagementSystem.Exceptions\obj\Debug\AgentManagementSystem.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\AgentManagementSystem.Exceptions\AgentManagementSystem.Exceptions\obj\Debug\AgentManagementSystem.Exceptions.dll
+C:\Users\pc\source\AgentManagementSystem.Exceptions\AgentManagementSystem.Exceptions\obj\Debug\AgentManagementSystem.Exceptions.pdb

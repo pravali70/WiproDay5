@@ -1,0 +1,14 @@
+C:\Users\pc\source\AgentManagementSystem\AgentManagementSystem\bin\Debug\AgentManagementSystem.exe.config
+C:\Users\pc\source\AgentManagementSystem\AgentManagementSystem\bin\Debug\AgentManagementSystem.exe
+C:\Users\pc\source\AgentManagementSystem\AgentManagementSystem\bin\Debug\AgentManagementSystem.pdb
+C:\Users\pc\source\AgentManagementSystem\AgentManagementSystem\bin\Debug\AgentManagementSystem.Services.dll
+C:\Users\pc\source\AgentManagementSystem\AgentManagementSystem\bin\Debug\AgentManagementSystem.Models.dll
+C:\Users\pc\source\AgentManagementSystem\AgentManagementSystem\bin\Debug\AgentManagementSystem.Exceptions.dll
+C:\Users\pc\source\AgentManagementSystem\AgentManagementSystem\bin\Debug\AgentManagementSystem.Services.pdb
+C:\Users\pc\source\AgentManagementSystem\AgentManagementSystem\bin\Debug\AgentManagementSystem.Models.pdb
+C:\Users\pc\source\AgentManagementSystem\AgentManagementSystem\bin\Debug\AgentManagementSystem.Exceptions.pdb
+C:\Users\pc\source\AgentManagementSystem\AgentManagementSystem\obj\Debug\AgentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\pc\source\AgentManagementSystem\AgentManagementSystem\obj\Debug\AgentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\AgentManagementSystem\AgentManagementSystem\obj\Debug\AgentMan.22A1F372.Up2Date
+C:\Users\pc\source\AgentManagementSystem\AgentManagementSystem\obj\Debug\AgentManagementSystem.exe
+C:\Users\pc\source\AgentManagementSystem\AgentManagementSystem\obj\Debug\AgentManagementSystem.pdb
